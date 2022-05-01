@@ -30,7 +30,7 @@ export const data = [
     Completed: false,
     Canceled: false,
     Times: "3",
-  },
+ },
   {
     Date: " 14/10/2020",
     Title: "fifth-todo",
