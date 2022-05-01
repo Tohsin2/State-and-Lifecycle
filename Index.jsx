@@ -159,7 +159,7 @@ class TableBody extends Component {
                                 </tr>
                             </Fragment>
                         ))
-                    }
+                   }
                 </tbody>
             </>
         )
